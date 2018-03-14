@@ -13,6 +13,8 @@ Te sugerimos revisar [scikit-learn](http://scikit-learn.org/stable/supervised_le
 
 Una vez que tengas el reto resuelto con una precisión que consideres adecuada, [escríbenos un mensaje en Facebook](https://www.facebook.com/AILearners/).
 
+Para poder probarlo, necesitarás descargar o clonar el repositorio. Adicionalmente, tienes que descomprimir el archivo `.zip`. El cuaderno utiliza una herramienta llamada Jupyter, la cuál te permite combinar texto con código de Python. No es necesario que utilices Jupyter, el cuaderno es sólo para guiarte en los primeros pasos. Cuando lo tengas resuelto, te sugerimos subir el código a GitHub.
+
 ## Tips para principiantes
 
 Es normal no lograr una solución inmediatamente. Lo mejor es empezar entendiendo la información.
