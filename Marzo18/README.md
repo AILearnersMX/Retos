@@ -7,7 +7,7 @@ En este reto, podrás clasificar canciones según su género a partir de cosas c
 En el archivo  `Problema.ipynb` explicamos cómo importar el archivo csv utilizando una librería llamada Pandas. También cargamos el dataset y lo barajamos. Finalmente, separamos el dataset en training, testing y validation. 
 
 ## ¿Cómo resolverlo?
-¡Este problema es para gente de todos los niveles! Puedes proponer la solución que quieras. En este caso, como ya tenemos las características a partir de las cuáles queremos predecir, es un ejemplo de aprendizaje supervisado. 
+¡Este problema es para todos los niveles! Puedes proponer la solución que quieras. En este caso, como ya tenemos las características a partir de las cuáles queremos predecir, es un ejemplo de aprendizaje supervisado. 
 
 Te sugerimos revisar [scikit-learn](http://scikit-learn.org/stable/supervised_learning.html). Esta es una librería de Python que viene con implementaciones de diferentes técnicas con las que podrías resolver este problema.  No es necesario utilizar `scikit-learn`, puedes tomar las decisiones que tú quieras. 
 
